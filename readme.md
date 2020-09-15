@@ -1,0 +1,1 @@
+I use Facebook to procrastinate badly, so I'm using Requestly plugin in my browser to redirect Facebook to this page in GitHub as a reminder to get to study. Feel free to do the same if it works for you.
